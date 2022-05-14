@@ -1,0 +1,87 @@
+/* cabeçalho */
+header {
+    background: #000000;
+    padding: 20px 0;
+    font-family: 'Montserrat', sans-serif;
+}
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+.imagem-cabeçario {    
+    width: 30%;    
+}
+nav {
+    margin-top: 60px;
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+nav a {
+    text-transform: uppercase;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+}
+nav a:hover {
+    color: #007300;
+    text-decoration: underline;
+}
+
+/* Pagina inicial */
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.banner {    
+    margin-left: 25%;
+    width: 50%;
+}
+
+.principal {
+    padding: 3em 0;
+    background: #FEFEFE;
+    width: 940px;
+    margin: 0 auto;
+}
+
+.titulo-principal {
+    font-weight: bold;
+    text-align: center;
+    font-size: 2em;
+    margin: 1em 0 1em;
+    clear: left;    
+}
+
+.principal p {
+    font-size: 18px;
+    margin: 0 0 1em;
+}
+
+.coquiteis {
+    width: 23%;    
+    float: left;
+    margin: 0 20px 20px 0;
+}
+
+/* Roda pé */
+footer{
+    text-align: center;
+    background: #000000;
+    padding: 40px 0;
+}
+footer p {
+    color: #FFFFFF;
+    margin-top: 20px;
+    font-size: 15px;
+}
+.imagem-rodape {
+    width: 10%;
+    height: 10%;    
+}
