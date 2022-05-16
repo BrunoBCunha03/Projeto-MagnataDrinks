@@ -10,13 +10,13 @@ header {
     margin: 0 auto;
 }
 .imagem-cabeçario {    
-    width: 30%;    
+    width: 10%;
+    margin-left: 15px;   
 }
 nav {
-    margin-top: 60px;
+    margin-top: -85px;
     position: absolute;
-    top: 110px;
-    right: 0;
+    left: 185px;
 }
 nav li {
     display: inline;
@@ -30,7 +30,7 @@ nav a {
     text-decoration: none;
 }
 nav a:hover {
-    color: #007300;
+    color: #228B22;
     text-decoration: underline;
 }
 
@@ -39,19 +39,19 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
-.banner {    
-    margin-left: 25%;
-    width: 50%;
+.banner {  
+    width: 100%;
 }
 
 .principal {
     padding: 3em 0;
-    background: #FEFEFE;
     width: 940px;
     margin: 0 auto;
+    margin-top: -5px;
 }
 
 .titulo-principal {
+    color: #228B22;
     font-weight: bold;
     text-align: center;
     font-size: 2em;
@@ -62,15 +62,17 @@ body {
 .principal p {
     font-size: 18px;
     margin: 0 0 1em;
+    color: #FFFFFF;
 }
 
 .coquiteis {
-    width: 23%;    
+    width: 26%;    
     float: left;
     margin: 0 20px 20px 0;
 }
 
 .beneficios {
+    color: #FFFFFF;
     padding: 3em 0;
 }
 
@@ -95,6 +97,9 @@ body {
 
 .imagem-beneficio {
     width: 49%;       
+}
+main {
+    background: #000000;
 }
 /* Roda pé */
 footer{
