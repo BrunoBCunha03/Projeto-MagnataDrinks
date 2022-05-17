@@ -1,0 +1,70 @@
+/* Pagina inicial */
+body {    
+    background:#000000;
+}
+
+main {
+    background: #000000;
+    font-family: 'Montserrat', sans-serif
+}
+
+.banner {  
+    width: 98%;
+    margin-left: 1%;
+}
+
+.principal {
+    padding: 3em 0;
+    width: 940px;
+    margin: 0 auto;
+    margin-top: -5px;
+}
+
+.titulo-principal {
+    color: #228B22;
+    font-weight: bold;
+    text-align: center;
+    font-size: 2em;
+    margin: 1em 0 1em;
+    clear: left;    
+}
+
+.principal p {
+    font-size: 18px;
+    margin: 0 0 1em;
+    color: #FFFFFF;
+}
+
+.coquiteis {
+    width: 26%;    
+    float: left;
+    margin: 0 20px 20px 0;
+}
+
+.beneficios {
+    color: #FFFFFF;
+    padding: 3em 0;
+}
+
+.conteudo-beneficios {
+    width: 640px;
+    margin: 0 auto;    
+}
+
+.lista-beneficios {
+    width: 51%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.itens {
+    line-height: 2.5;
+}
+
+.itens::before {
+    content: "🍸";
+}
+
+.imagem-beneficio {
+    width: 49%;       
+}

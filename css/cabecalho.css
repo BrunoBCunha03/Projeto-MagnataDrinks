@@ -1,0 +1,49 @@
+/* cabeçalho */
+header {
+    background: #000000;
+    padding: 20px 0;
+    font-family: 'Montserrat', sans-serif;
+}
+.caixa {
+    text-align  : center;
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+.imagem-cabeçario {    
+    width: 10%;
+    margin-left: 35px;   
+}
+.whats-imagem {
+    display: inline-block;
+    width: 46px;
+    margin-left: 90%;
+    margin-right: 10px;
+    border-radius: 100%;
+}
+.insta-imagem {
+    display: inline-block;
+    width: 37px;
+    border-radius: 100%;
+}
+nav {
+    margin-top: -11%;
+    position: absolute;
+    left: 26%;
+}
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+nav a {
+    text-transform: uppercase;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+}
+nav a:hover {
+    color: #228B22;
+    text-decoration: underline;
+}

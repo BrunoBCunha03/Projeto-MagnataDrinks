@@ -1,0 +1,42 @@
+body {
+    background: #000000;
+    font-family: 'Montserrat', sans-serif
+}
+
+.titulo-principal {
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+    color: #228B22    
+}
+
+.descricao-tabela {
+    text-align: center;
+    margin-top: 2%;
+    font-size: 18px;
+    color:#FFFFFF
+}
+
+#tabela {
+    margin: 2% 25% 2% 25%;
+}
+
+table {
+    background: #000000;
+    text-align: center;
+    margin: 20px 0 0 20px;
+}
+
+thead {
+    background: #555555;
+    color: white;
+    font-weight: bold;
+}
+tbody {
+    color: #FFFFFF;
+}
+
+td {
+    border: 2px solid #228B22;
+    padding: 8px 15px;
+}
