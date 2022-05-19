@@ -4,21 +4,22 @@ body {
 }
 
 .titulo-principal {
+    margin-top: 2%;
     text-align: center;
     font-size: 2em;
     font-weight: bold;
-    color: #228B22    
+    color: #228B22
 }
 
 .descricao-tabela {
     text-align: center;
     margin-top: 2%;
     font-size: 18px;
-    color:#FFFFFF
+    color: #FFFFFF
 }
 
 #tabela {
-    margin: 2% 25% 2% 25%;
+    margin: 2% 25% 5% 25%;
 }
 
 table {
@@ -32,6 +33,7 @@ thead {
     color: white;
     font-weight: bold;
 }
+
 tbody {
     color: #FFFFFF;
 }

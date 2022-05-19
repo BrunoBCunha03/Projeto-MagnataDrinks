@@ -1,5 +1,6 @@
 /* cabeçalho */
 header {
+    border-bottom: 1px solid #228B22;
     background: #000000;
     padding: 20px 0;
     font-family: 'Montserrat', sans-serif;
