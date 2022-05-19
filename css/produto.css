@@ -1,0 +1,29 @@
+body {
+    background: #000000;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.produtos {
+    text-align: center;
+}
+
+.imagem-drinks {
+    width: 25%;
+    margin: 0 1% 1% 1%;
+}
+
+.titulo-drinks {  
+    font-weight: bold;
+    font-size: 2em;
+    margin: 2% 2% 2% 30%;
+    color: #228B22;
+}
+
+.produto-descricao {
+    text-align: left !important;
+    width: 50%;
+    vertical-align: top;
+    display: inline-block;
+    color: #FFFFFF;
+    margin: 1% 0 1% 1%;    
+}
