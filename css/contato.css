@@ -15,6 +15,18 @@ form legend {
     margin: 0 0 1% 2%;
 }
 
+#email {
+    width: 20%;
+}
+
+#telefone {
+    width: 10%;
+}
+
+#datahora {
+    width: 10%;
+}
+
 select {
     margin: 0 0 1% 2%;
 }
@@ -23,7 +35,7 @@ select {
     display: block;
     margin: 0 0 2% 2%;
     padding: 10px 25px;
-    width: 50%;
+    width: 35%;
 }
 
 .checkbox {
@@ -31,7 +43,7 @@ select {
 }
 
 .enviar {
-    width: 40%;
+    width: 33%;
     padding: 15px 0;
     background: orange;
     color: white;
@@ -45,6 +57,5 @@ select {
 }
 
 .enviar:hover {
-    background: darkorange;
-    transform: scale(1.2);
+    background: darkorange;   
 }
